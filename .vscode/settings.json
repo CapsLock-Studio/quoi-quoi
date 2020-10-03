@@ -1,6 +1,0 @@
-{
-  "path-intellisense.mappings": {
-    "component": "${workspaceRoot}/components",
-    "qredux": "${workspaceRoot}/redux"
-  },
-}
